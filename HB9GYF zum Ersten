@@ -1,3 +1,13 @@
 Eigentlich suche ich mein File in .html, welches ich meine erstellt und hochgeladen zu haben.
-Wo ist es? Gefunden habe ich die Datei nicht. Gemerkt habe ich, dass es einen Fork gegeben hat.
+Wo ist es? Gefunden habe ich die Datei nicht. 
+
+Gemerkt habe ich nach einer Weile, dass es einen Fork gegeben hat.
 Es scheint so, dass ich jetzt in diesem Fork arbeite und in diesem Fork finde ich meine .txt-Datei und nun auch (nach einem Comitt) meine .html-Datei.
+
+Etwas später merke ich noch zwei weitere Punkte. 
+1. Es könnte sein, dass ich beim ersten Mal hochladen von der .html-Datei den Button "Comitt" nicht gedrückt hatte.
+2. Mit Schrecken stellte ich fest, dass wir im Moment den "Main" haben und noch keinen Branch. Es könnte sein, dass ich nun meine beiden Dateien und alle meine 
+Änderungen nur für den Main vorbereitet habe. Warum finde ich das schrecklich? Meiner Ansicht nach ist Main die Produktion. Entwickeln würden wir in dem BRanch "Dev"
+und erst wenn wir uns im Klaren sind, würden wir unsere Sources zuerst alle in den Branch "Dev" reinschieben und nachher würde ein Release V1.0A00 in Produktion 
+gespielt. 
+3. Ich wollte deshalb mein .html-Datei löschen, finde aber den Weg oder den Button nicht. Kann ich als Ersteller löschen? Oder geht das gar nicht? 
